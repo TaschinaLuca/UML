@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y9ue2mDPaF8vCii8hGkq-56" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Services&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="770" y="-480" width="310" height="480" as="geometry" />
+          <mxGeometry x="650" y="-460" width="310" height="480" as="geometry" />
         </mxCell>
         <mxCell id="y9ue2mDPaF8vCii8hGkq-57" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;- Repo: Repository&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="y9ue2mDPaF8vCii8hGkq-56" vertex="1">
           <mxGeometry y="26" width="310" height="26" as="geometry" />
